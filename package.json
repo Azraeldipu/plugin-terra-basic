@@ -1,7 +1,7 @@
 {
 	"name": "plugin-terra-basic",
 	"version": "0.0.1",
-	"license": "MIT",
+	"license": "MIT1",
 	"scripts": {
 		"server:dev": "webpack-dev-server --config config/webpack.dev.js --progress --profile --watch",
 		"start": "npm run server:dev",
